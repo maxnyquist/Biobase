@@ -1,9 +1,9 @@
 ################################### HEADER ###################################
-#   TITLE: 
-#   DESCRIPTION:
-#   AUTHOR(S): 
-#   DATE LAST UPDATED: 
-#   R VERSION 3.X.X
+#   TITLE: biobase_csv_process.R
+#   DESCRIPTION: Reads .csv file from biobasemaps.com in W drive directory for initial QA/QC. This file is then passed to ArcPro for further processing into map/tile package
+#   AUTHOR(S): Max Nyquist
+#   DATE LAST UPDATED: 1/3/2022
+#   R VERSION 4.0.3
 ##############################################################################.
 
 ### LOAD PACKAGES ####
